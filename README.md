@@ -1,4 +1,4 @@
-heroku-identity-java
+sso-with-heroku
 ====================
 
 A sample java app that integrates with Salesforce Identity.   Run it!
