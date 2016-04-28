@@ -36,7 +36,7 @@ It doesn't look like you've configured SAML quite yet....please follow these ste
 
 
 <h2><li>Now, let's configure SAML for the Heroku App:</li></h2>
-<p>If you aren't already, go to the Connected App detail page by going to <b>Manage Apps | Connected App | <i>App Name</i></p>
+<p>If you aren't already, go to the Connected App detail page by going to <b>Manage Apps | Connected App | <i>App Name</i></b></p>
 <p>Copy the <b>Metadata Disovery Endpoint</b> URL under the <b>SAML Login Information</b> section</p>
 <p>Now go to your Heroku Dashboard and click on the app you deployed</p>
 <p>On the next page, click on 'Settings' and click on the <b>Reveal Config Vars</b></p>
